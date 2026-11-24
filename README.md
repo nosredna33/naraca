@@ -6,6 +6,8 @@ O **Naraca**, que pronuncia-se **"Na Raça"** é uma ferramenta experimental esc
 
 O objetivo não é competir com projetos como o GIMPS (que busca primos de Mersenne), mas sim **medir e documentar** o ganho (ou a ausência dele) de um pré-filtro simples em buscas de primos genéricos.
 
+Obtivemos ganhos de performance comprovados em 20% usando arquivos com sementes de 20.000 bits.
+
 ---
 
 ## Fundamentação Matemática
