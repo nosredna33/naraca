@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-O **Naraca** é uma ferramenta experimental em C (ANSI C99) para busca de números primos de tamanho arbitrário, com foco em **pré-filtragem de candidatos** baseada nas terminações decimais possíveis de primos (1, 3, 7, 9). O projeto investiga o impacto real dessa peneira no desempenho da busca, usando a biblioteca **GMP** para aritmética de precisão arbitrária e testes de primalidade.
+O **Naraca**, que pronuncia-se **"Na Raça"** é uma ferramenta experimental escrita em C (ANSI C99) para busca de números PROVAVEIS números primos de tamanho arbitrário, com foco em **pré-filtragem de candidatos** baseada nas terminações decimais possíveis de primos (1, 3, 7, 9). O projeto investiga o impacto real dessa peneira no desempenho da busca, usando a biblioteca **GMP** para aritmética de precisão arbitrária e testes de primalidade.
 
 O objetivo não é competir com projetos como o GIMPS (que busca primos de Mersenne), mas sim **medir e documentar** o ganho (ou a ausência dele) de um pré-filtro simples em buscas de primos genéricos.
 
